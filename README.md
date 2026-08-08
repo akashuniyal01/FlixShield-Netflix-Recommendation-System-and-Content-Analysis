@@ -1,4 +1,5 @@
-🎬 FlixShield: Netflix Recommendation System and Content Analysis
+🎬 #FlixShield: Netflix Recommendation System and Content Analysis
+
 Welcome to the FlixShield: Netflix Recommendation System and Content Analysis project! This repository contains an in-depth analysis of the Netflix dataset of movies and TV shows.Our goal is to enhance user experience through a content-based recommendation system, ultimately reducing subscriber churn for Netflix.
 
 🚀 Project Overview
@@ -28,13 +29,11 @@ Employed Principal Component Analysis (PCA) to reduce dimensionality, improving 
 
 ###🔗 Clustering Algorithms
 
-Implemented both K-Means and Agglomerative Hierarchical Clustering algorithms to create clusters. Evaluated the optimal number of clusters as 4 for K-Means and 2 for hierarchical clustering.
+Implemented both K-Means and Agglomerative Hierarchical Clustering algorithms to create clusters.
 
 ##🤖 Content-Based Recommender System
 
 Developed a recommender system using a cosine similarity matrix to offer personalized content suggestions, helping reduce subscriber churn.
-
-##📈 Results & Insights This analysis and recommendation system not only offers valuable insights into the streaming entertainment industry but also serves to enhance user satisfaction through personalized content. The clustering and recommendation techniques used in this project are expected to improve subscriber retention for Netflix, contributing to its leadership in the streaming space.
 
 ##💡 Conclusion By conducting this comprehensive analysis and developing a content-based recommendation system, the project aims to:
 
